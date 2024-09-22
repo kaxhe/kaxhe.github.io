@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kaxhe.github.io/FmX/sitemap.FmX.gz
